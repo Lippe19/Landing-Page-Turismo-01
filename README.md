@@ -2,4 +2,4 @@
 Landing Page de Pitangui Beach Resort
 
 
-![print]()
+![print](https://github.com/Lippe19/Landing-Page-Turismo-01/blob/main/img.jpg)
